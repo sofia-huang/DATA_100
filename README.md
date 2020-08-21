@@ -1,3 +1,3 @@
-# DATA_100_Intro
+# Wicked Problems - DATA 100
 
 This is the first repository created for DATA 100 to test out GitHub.
