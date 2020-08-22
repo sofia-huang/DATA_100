@@ -1,6 +1,6 @@
-# Wicked Problems - DATA 100
+# Wicked Problems
 
-### This is the first repository created for DATA 100 to test out GitHub.
+### DATA 100 Projects
 =========================================================================
 
 [08/22/20](08_22_20.md) 
