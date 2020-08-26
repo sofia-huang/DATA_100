@@ -1,7 +1,7 @@
 # Introduction
 Hi! I'm Sofia and I'm hoping to major in Data Science. In my free time, I like to be outside hiking, walking, kayaking, skiing, etc. I'm also on the Women's Gymnastics Team here at W&M and can't wait to have an awesome freshman year!
 ![](photo1.jpg =200x100)
-<img src="photo1.jpg" width="200" height="200" />
+<img src="photo1.jpg" width="100" height="200" />
 ## Project Index
 =========================================================================
 
