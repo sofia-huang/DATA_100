@@ -8,3 +8,9 @@
   Another huge benefit of this technology is crop management. Machine learning can detect characteristics that lead to crop quality and this can increase crop value and reduce waste. It can also detect diseases and weeds which usually require pesticides being sprayed over the entire area, but with ML, farmers can precisely locate and destroy these treats with minimal environmental or financial costs. The most important topic is crop yield prediction that provides comprehensive insights using multiple factors to match supply with demand and make the most out of the yield.
   
   By utilizing sensors, satellites, telecommunication technologies, and data analytics, the future of agriculture can be paved as smart farms allow farmers to have a deeper understanding of their fields and better manage them. They can monitor individual animals’ needs and adjust accordingly to optimize herd health. This new concept can reduce production risks, increase sustainability and efficiency, and gives farmers the ability to foresee results and enhance strategy.
+  
+ ### Works Cited
+ 
+ Rouse, M. (2019, June 13). Smart Farming. IoT Agenda. https://internetofthingsagenda.techtarget.com/definition/smart-farming#:%7E:text=Smart%20farming%20is%20a%20management,monitoring%2C%20automating%20and%20analyzing%20operations.
+ 
+ Ved, M. (2019, May). Machine Learning in Agriculture: Applications and Techniques. KDnuggets. https://www.kdnuggets.com/2019/05/machine-learning-agriculture-applications-techniques.html
