@@ -9,6 +9,8 @@
   
   By utilizing sensors, satellites, telecommunication technologies, and data analytics, the future of agriculture can be paved as smart farms allow farmers to have a deeper understanding of their fields and better manage them. They can monitor individual animals’ needs and adjust accordingly to optimize herd health. This new concept can reduce production risks, increase sustainability and efficiency, and gives farmers the ability to foresee results and enhance strategy.
   
+ ----------------------------------------------------------
+  
  ### Works Cited
  
  Rouse, M. (2019, June 13). Smart Farming. IoT Agenda. https://internetofthingsagenda.techtarget.com/definition/smart-farming#:%7E:text=Smart%20farming%20is%20a%20management,monitoring%2C%20automating%20and%20analyzing%20operations.
