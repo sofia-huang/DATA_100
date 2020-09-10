@@ -10,6 +10,6 @@ Aug. 22, 2020: [Getting Started with RStudio](08_22_20.md)
 
 Aug. 27, 2020: [Lab 0](08_27_20.md)
 
-Sept. 4, 2020: [Project 1, Pt 1: Data Management Basics](09_04_20.md)
+Sept. 4, 2020: [Project 1: Data Management Basics](09_04_20.md)
 
 Sept. 7, 2020: [Data Science Reflection 1](reflection1.md)
