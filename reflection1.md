@@ -13,7 +13,6 @@ By utilizing sensors, satellites, telecommunication technologies, and data analy
   
 -------
   
-# HI. 
 ### Works Cited
  
  Rouse, M. (2019, June 13). Smart Farming. IoT Agenda. https://internetofthingsagenda.techtarget.com/definition/smart-farming#:%7E:text=Smart%20farming%20is%20a%20management,monitoring%2C%20automating%20and%20analyzing%20operations.
