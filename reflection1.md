@@ -1,7 +1,7 @@
 # Data Science Reflection
 ### Applications in Agriculture
 
-====
+-------
 
 Smart farming is a new application of data science within the agriculture industry that uses big data and machine learning to monitor, analyze, and automate operations. This emerging concept is being studied to make agricultural production more efficient. Due to a rising global population, increase in need for sustainable farming, and higher demand for crop yield, this management system is an up and coming method that will change the way agriculture is done. 
   
@@ -11,7 +11,7 @@ Another huge benefit of this technology is crop management. Machine learning can
   
 By utilizing sensors, satellites, telecommunication technologies, and data analytics, the future of agriculture can be paved as smart farms allow farmers to have a deeper understanding of their fields and better manage them. They can monitor individual animals’ needs and adjust accordingly to optimize herd health. This new concept can reduce production risks, increase sustainability and efficiency, and gives farmers the ability to foresee results and enhance strategy.
   
-=====
+-------
   
 # HI. 
 ### Works Cited
