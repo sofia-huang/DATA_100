@@ -13,3 +13,5 @@ Aug. 27, 2020: [Lab 0](08_27_20.md)
 Sept. 4, 2020: [Project 1: Data Management Basics](09_04_20.md)
 
 Sept. 7, 2020: [Data Science Reflection 1](reflection1.md)
+
+Sept. 18, 2020: [Project 2: Data Management Fundamentals](09_18_20.md)
