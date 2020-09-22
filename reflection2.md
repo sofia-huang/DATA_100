@@ -14,6 +14,7 @@ Neural networks are basically AI “brains” or a computing system of connected
 Pollution is another problem humans face and according to the Environmental Protection Agency (EPA), the leading contributor is agriculture. Substantial water pollution is thought to stem from large, concentrated animal feeding operations (CAFOs). The real issue is, there is no agency with a definite list of CAFOs as they are not regulated. This means they are hard to find and monitor. The solution to this is deep learning. By training algorithms to recognize CAFOs and determine their pollution risk, the model was able to detect 93% of all poultry CAFOs in North Carolina. Researchers hope to implement these models to a larger scale and to compliment regulator agencies’ monitoring efforts.
 
 Environmental monitoring using machine learning is one of the most efficient ways to predict environmental risks and hazards so that agencies can take action before the damage is done. Other applications of this technology include monitoring thawing permafrost and preventing oil and gas leaks. In the future, this will hopefully become a more common practice in efforts to protect the planet from manmade dangers as technology advances and these models become more effective and accurate.
+
 ----------
 ### Works Cited 
 
