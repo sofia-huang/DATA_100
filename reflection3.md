@@ -11,6 +11,16 @@ Dessa created a project called space2vec that automated the image analysis proce
 
 Taking this to the next step, Dessa decided to try applying a deep learning technique to limit the amount of time researchers needed to spend feature engineering<sup>2</sup>. Using CNNs (see last reflection for explanation) allows the feature engineering process to be completely skipped as the image data is fed to the algorithm and it learns the features itself. They put a threshold on the algorithm of 0.06 which basically forces the model to come to a decision. This resulted in a false discovery rate of only 12%. The final CNN algorithm set a new world standard and beat all previous random forest models. It saves 20 days of work not even including the time and astronomers needed for feature engineering. 
 
-  A supervised learning algorithm that combines multiple decision trees, from randomly selected features instead of the best possible ones, to create the final model.
+In conclusion, machine learning in astronomy is a relatively new concept and there hasn't been much research looking into it. However, there is so much potential since there is such a vast amount of data that needs to be sifted through and analyzed to be able to be studied. Hopefully in the coming years, machine learning and AI will be incorporated more into this field and there will be some cool, new discoveries.
 
-  The process of transforming raw data into features that better represents the underlying structure of the data and improves the model performance. (Requires aid from experts to know what parts will help solve problem)
+----------
+ <sup>1</sup>A supervised learning algorithm that combines multiple decision trees, from randomly selected features instead of the best possible ones, to create the final model.
+
+ <sup>2</sup>The process of transforming raw data into features that better represents the underlying structure of the data and improves the model performance. (Requires aid from experts to know what parts will help solve problem)
+ 
+----------
+### Works Cited
+
+Alonso, Anna. “The State of Data in Astronomy.” Dataiku Blog. Dataiku, December 3, 2018. https://blog.dataiku.com/the-state-of-data-in-astronomy. 
+
+Dessa. “How 3 Engineers Built a Record-Breaking Supernova Identification System with Deep Learning.” Medium. Dessa News, September 14, 2020. https://medium.com/dessa-news/space-2-vec-fd900f5566. 
