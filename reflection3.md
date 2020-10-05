@@ -13,7 +13,6 @@ Taking this to the next step, Dessa decided to try applying a deep learning tech
 
 In conclusion, machine learning in astronomy is a relatively new concept and there hasn't been much research looking into it. However, there is so much potential since there is such a vast amount of data that needs to be sifted through and analyzed to be able to be studied. Hopefully in the coming years, machine learning and AI will be incorporated more into this field and there will be some cool, new discoveries.
 
-----------
  <sup>1</sup>A supervised learning algorithm that combines multiple decision trees, from randomly selected features instead of the best possible ones, to create the final model.
 
  <sup>2</sup>The process of transforming raw data into features that better represents the underlying structure of the data and improves the model performance. (Requires aid from experts to know what parts will help solve problem)
