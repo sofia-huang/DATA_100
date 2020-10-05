@@ -1,5 +1,6 @@
-## Data Science Reflection 3
+# Data Science Reflection 3
 ### Applications in Astronomy
+----------
 
 Astronomy deals with an astronomical amount of data and data science has drastically improved astronomers’ ability to study the universe. There has been a shift in the way that data has been collected and now the skies are accessible to everyone. Data collection used to be very individual as each scientist had to collect their own data on whatever they were interested in. But now, organizations have been created, such as the Sloan Digital Sky Survey (SDSS), that image and map “larger portions of the skies and wider ranges of wavelengths of light; collecting data on more events, objects, and touching more corners of the sky through larger telescopes and better light detectors.” This data is free to the public so that anyone can study and learn from them. By providing data to the world, researchers can spend more time analyzing rather than collecting data. 
 
