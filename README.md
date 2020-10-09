@@ -19,3 +19,5 @@ Sept. 18, 2020: [Project 2: Data Management Fundamentals](09_18_20.md)
 Sept. 21, 2020: [Data Science Reflection 2](reflection2.md)
 
 Oct. 05, 2020: [Data Science Reflection 3](reflection3.md)
+
+Oct. 09, 2020: [Project 2: Spatial Population Description](10_09_20.md)
