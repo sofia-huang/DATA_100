@@ -11,6 +11,8 @@ DigitalGlobe partnered with Google to create Google Maps and Google Earth. They 
 ----------------
 ### Works Cited
 
+“Hot or Cold: How GIS Changes Our Perceptions of Climate Change.” USC GIS Online. USC, January 22, 2020. https://gis.usc.edu/blog/hot-or-cold-how-gis-changes-our-perceptions-of-climate-change/. 
+
 IV, John. “Spatial Data Science for the Uninitiated.” Towards Data Science. Medium, April 6, 2020. https://towardsdatascience.com/spatial-data-science-for-the-uninitiated-9a78804d4efa. 
 
 Maxar Technologies. “Explore How Rising Temperatures Affect Earth.” Maxar Blog. Maxar, September 18, 2018. https://blog.maxar.com/earth-intelligence/2018/explore-how-rising-temperatures-affect-earth. 
