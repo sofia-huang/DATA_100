@@ -23,3 +23,5 @@ Oct. 05, 2020: [Data Science Reflection 3](reflection3.md)
 Oct. 09, 2020: [Project 3: Spatial Population Description](10_09_20.md)
 
 Oct. 21, 2020: [Project 4: Extracting Populations from a Raster and Aggregating](10_21_20.md)
+
+Oct. 22, 2020: [Data Science Reflection 4](reflection4.md)
