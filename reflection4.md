@@ -8,6 +8,10 @@ Applications of GIS are able to enhance humanitarian projects. One organization,
 
 DigitalGlobe partnered with Google to create Google Maps and Google Earth. They also made a [story](https://earth.google.com/web/data=CiQSIhIgZDJkMzVhNTk2ZTQ3MTFlOGJhM2Y0ZGJhNDk1NmM3YjQ) using Voyager, a platform that enables interactive, map-based narratives, that shows how the increasing temperature of the Earth is affecting different areas across the globe. Some examples include rising sea levels swallowing islands, growing pine-killing beetle population due to the climate change, melting glaciers, and the appearance of sinkholes from thawing permafrost. The story shows images from different years to demonstrate the effects that climate change is inducing on the environment, as well as, shortwave infrared imagery that is useful when agencies are researching events like fires.
 
+As you can see, GIS has many different uses and is very beneficial for visualizing changes on Earth. My research focuses mostly on the applications of GIS in environmental science and how it can be used to mitigate climate change. These days, organizations are trying to reduce their carbon footprint and GIS is usually employed to monitor sustainable and renewable systems. Some examples this include: visualizing the power usage pf people and businesses, positioning windfarms to avoid harm to birds, determining the best agricultural locations to maximize the crop yield, and evaluating how much sunlight a building receives for solar panel installation. These investigations use a variety of programs and tools to model the situation and obtain full use of the data. Some might even utilize 3D GIS models to develop more robust solutions to the spatial problems at hand. 
+
+Overall, GIS is a very significant discipline within data science and will continue to provide impactful insights as more global issues arise in the future.
+
 ----------------
 ### Works Cited
 
