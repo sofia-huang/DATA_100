@@ -12,16 +12,16 @@ Aug. 27, 2020: [Lab 0](08_27_20.md)
 
 Sept. 4, 2020: [Project 1: Data Management Basics](09_04_20.md)
 
-Sept. 7, 2020: [Data Science Reflection 1](reflection1.md)
+Sept. 7, 2020: [Data Science Reflection 1](Reflections/reflection1.md)
 
 Sept. 18, 2020: [Project 2: Data Management Fundamentals](09_18_20.md)
 
-Sept. 21, 2020: [Data Science Reflection 2](reflection2.md)
+Sept. 21, 2020: [Data Science Reflection 2](Reflections/reflection2.md)
 
-Oct. 05, 2020: [Data Science Reflection 3](reflection3.md)
+Oct. 05, 2020: [Data Science Reflection 3](Reflections/reflection3.md)
 
 Oct. 09, 2020: [Project 3: Spatial Population Description](10_09_20.md)
 
 Oct. 21, 2020: [Project 4: Extracting Populations from a Raster and Aggregating](10_21_20.md)
 
-Oct. 22, 2020: [Data Science Reflection 4](reflection4.md)
+Oct. 22, 2020: [Data Science Reflection 4](Reflections/reflection4.md)
