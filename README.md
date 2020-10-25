@@ -8,13 +8,13 @@ Hi! I'm Sofia and I'm hoping to major in Data Science. In my free time, I like t
 
 Aug. 22, 2020: [Getting Started with RStudio](IntroProject/08_22_20.md) 
 
-Aug. 27, 2020: [Lab 0](08_27_20.md)
+Aug. 27, 2020: [Lab 0](Lab0/08_27_20.md)
 
-Sept. 4, 2020: [Project 1: Data Management Basics](09_04_20.md)
+Sept. 4, 2020: [Project 1: Data Management Basics](Project1/09_04_20.md)
 
 Sept. 7, 2020: [Data Science Reflection 1](Reflections/reflection1.md)
 
-Sept. 18, 2020: [Project 2: Data Management Fundamentals](09_18_20.md)
+Sept. 18, 2020: [Project 2: Data Management Fundamentals](Project2/09_18_20.md)
 
 Sept. 21, 2020: [Data Science Reflection 2](Reflections/reflection2.md)
 
