@@ -6,7 +6,7 @@ Hi! I'm Sofia and I'm hoping to major in Data Science. In my free time, I like t
 ## Project Index
 =========================================================================
 
-Aug. 22, 2020: [Getting Started with RStudio](08_22_20.md) 
+Aug. 22, 2020: [Getting Started with RStudio](IntroProject/08_22_20.md) 
 
 Aug. 27, 2020: [Lab 0](08_27_20.md)
 
