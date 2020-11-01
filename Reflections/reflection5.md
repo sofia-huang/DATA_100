@@ -18,5 +18,7 @@ One of the major challenges for deep learning is called the Clever Hans effect. 
 ### Works Cited
 
 Gonfalonieri, Alexandre. “How Amazon Alexa Works? Your Guide to Natural Language Processing (AI).” Medium. Towards Data Science, December 31, 2018. https://towardsdatascience.com/how-amazon-alexa-works-your-guide-to-natural-language-processing-ai-7506004709d3. 
+
 Marketing, Exxact. “The Unreasonable Progress of Deep Neural Networks in NLP.” Exxact, June 3, 2020. https://blog.exxactcorp.com/the-unreasonable-progress-of-deep-neural-networks-in-natural-language-processing-nlp/. 
+
 “Natural Language Processing.” Wikipedia. Wikimedia Foundation, October 29, 2020. https://en.wikipedia.org/wiki/Natural_language_processing. 
