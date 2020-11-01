@@ -1,4 +1,4 @@
-# Data Science Reflection
+# Data Science Reflection 5
 ### Alexa and Natural Language Processing
 -------
 Amazon’s Alexa, as well as, other smart home devices obviously use artificial intelligence as the main basis of their system. I decided to research on how exactly it works and what processes are used. Alexa is built using natural language processing (NLP) to interpret the commands that users say. NLP encapsulates speech recognition and the data is broken up into individual sounds and compared with a massive database to find the words that most closely correspond with the individual sounds. Alexa records your command and sends it to Amazon’s cloud servers to interpret. The servers then send back the information Alexa needs to fulfill the order.
