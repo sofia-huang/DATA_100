@@ -1,4 +1,4 @@
-## Data Science Reflection
+# Data Science Reflection
 ### Alexa and Natural Language Processing
 -------
 Amazon’s Alexa, as well as, other smart home devices obviously use artificial intelligence as the main basis of their system. I decided to research on how exactly it works and what processes are used. Alexa is built using natural language processing (NLP) to interpret the commands that users say. NLP encapsulates speech recognition and the data is broken up into individual sounds and compared with a massive database to find the words that most closely correspond with the individual sounds. Alexa records your command and sends it to Amazon’s cloud servers to interpret. The servers then send back the information Alexa needs to fulfill the order.
@@ -13,6 +13,7 @@ Alexa interprets the command by splitting it into three parts, the wake word, th
 NLP is a combination of linguistics, computer science, and AI. It is the processes that happen when a computer analyzes natural language data and the interactions between computers and natural language. The field currently uses neural networks for machine learning vs statistical models which requires thorough feature engineering. Some NN models utilize transfer learning where scientists use the model’s previous training experience to learn a new task more quickly. This is more efficient and economical than having to start all over and is more like fine-tuning. Others make use of recurrent neural networks which create dependencies within the layers as each one relies on the previous. 
 
 One of the major challenges for deep learning is called the Clever Hans effect. This is when the algorithm finds impressive patterns that are not useful in real-world applications. An example would be a model determining a disease based on the type of machine used. This is a correlation that cannot be used to make conclusions and need to be reassessed by the analyzers. 
+
 -------
 ### Works Cited
 
