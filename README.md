@@ -27,3 +27,5 @@ Oct. 21, 2020: [Project 4: Extracting Populations from a Raster and Aggregating]
 Oct. 22, 2020: [Data Science Reflection 4](Reflections/reflection4.md)
 
 Nov. 1, 2020: [Data Science Reflection 5](Reflections/reflection5.md)
+
+Nov. 6, 2020: [Project 5: Acquiring, Modifying and Describing the Data](Project5/11_06_20.md)
