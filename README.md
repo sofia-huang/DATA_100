@@ -32,4 +32,4 @@ Nov. 6, 2020: [Project 5: Acquiring, Modifying and Describing the Data](Project5
 
 Nov. 13, 2020: [Data Science Final Reflection](Reflections/reflection6.md)
 
-Nov. 19, 2020: [Final Project](FinalProject/fproject.md)
+Nov. 19, 2020: [Final Project](FinalProject/11_19_20.md)
